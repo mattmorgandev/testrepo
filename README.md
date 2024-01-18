@@ -1,3 +1,5 @@
 # testrepo
-Test repository for IBM dev course - Git &amp; GitHub module
 
+## Editing the file
+
+It's a markdown file in this repository
